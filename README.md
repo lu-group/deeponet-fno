@@ -1,4 +1,4 @@
-# DeepONet and FNO (with practical extensions)
+# DeepONet & FNO (with practical extensions)
 
 The data and code for the paper [L. Lu, X. Meng, S. Cai, Z. Mao, S. Goswami, Z. Zhang, & G. E. Karniadakis. A comprehensive and fair comparison of two neural operators (with practical extensions) based on FAIR data. *Computer Methods in Applied Mechanics and Engineering*, 393, 114778, 2022](https://doi.org/10.1016/j.cma.2022.114778).
 
@@ -10,7 +10,7 @@ The data and code for the paper [L. Lu, X. Meng, S. Cai, Z. Mao, S. Goswami, Z. 
     - Case: Continuous
 - Darcy problem in a pentagram with a hole
 - Darcy problem in a triangular domain
-- Darcy problem in a triangular domain with notch
+- [Darcy problem in a triangular domain with notch](data/darcy_triangular_notch)
 - Electroconvection problem
 - Advection equation
     - Case I
@@ -32,7 +32,7 @@ The data and code for the paper [L. Lu, X. Meng, S. Cai, Z. Mao, S. Goswami, Z. 
     - Case: Continuous
 - Darcy problem in a pentagram with a hole
 - Darcy problem in a triangular domain
-- Darcy problem in a triangular domain with notch
+- [Darcy problem in a triangular domain with notch](src/darcy_triangular_notch)
 - Electroconvection problem
 - Advection equation
     - Case I
