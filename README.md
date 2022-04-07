@@ -16,7 +16,7 @@ The data and code for the paper [L. Lu, X. Meng, S. Cai, Z. Mao, S. Goswami, Z. 
     - Case I
     - Case II
     - Case III
-- Linear instability waves in high-speed boundary layers
+- [Linear instability waves in high-speed boundary layers](data/instability_wave)
 - Compressible Euler equations with non-equilibrium chemistry
 - A flapping airfoil
 - Navier-Stokes equation in the vorticity-velocity form
@@ -38,7 +38,7 @@ The data and code for the paper [L. Lu, X. Meng, S. Cai, Z. Mao, S. Goswami, Z. 
     - Case I
     - Case II
     - Case III
-- Linear instability waves in high-speed boundary layers
+- [Linear instability waves in high-speed boundary layers](src/instability_wave)
 - Compressible Euler equations with non-equilibrium chemistry
 - A flapping airfoil
 - Navier-Stokes equation in the vorticity-velocity form
