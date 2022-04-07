@@ -6,7 +6,7 @@ The data and code for the paper [L. Lu, X. Meng, S. Cai, Z. Mao, S. Goswami, Z. 
 
 - [Burgers' equation](data/burgers)
 - Darcy problem in a rectangular domain
-    - Case: Piecewise constant
+    - [Case: Piecewise constant](data/darcy_rectangular_pwc)
     - Case: Continuous
 - Darcy problem in a pentagram with a hole
 - Darcy problem in a triangular domain
@@ -28,7 +28,7 @@ The data and code for the paper [L. Lu, X. Meng, S. Cai, Z. Mao, S. Goswami, Z. 
 
 - [Burgers' equation](src/burgers)
 - Darcy problem in a rectangular domain
-    - Case: Piecewise constant
+    - [Case: Piecewise constant](src/darcy_rectangular_pwc)
     - Case: Continuous
 - Darcy problem in a pentagram with a hole
 - Darcy problem in a triangular domain
