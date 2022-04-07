@@ -13,9 +13,9 @@ The data and code for the paper [L. Lu, X. Meng, S. Cai, Z. Mao, S. Goswami, Z. 
 - [Darcy problem in a triangular domain with notch](data/darcy_triangular_notch)
 - Electroconvection problem
 - Advection equation
-    - Case I
-    - Case II
-    - Case III
+    - [Case I](data/advection)
+    - [Case II](data/advection)
+    - [Case III](data/advection)
 - [Linear instability waves in high-speed boundary layers](data/instability_wave)
 - Compressible Euler equations with non-equilibrium chemistry
 - A flapping airfoil
@@ -36,8 +36,8 @@ The data and code for the paper [L. Lu, X. Meng, S. Cai, Z. Mao, S. Goswami, Z. 
 - Electroconvection problem
 - Advection equation
     - Case I
-    - Case II
-    - Case III
+    - [Case II](src/advection_II_III)
+    - [Case III](src/advection_II_III)
 - [Linear instability waves in high-speed boundary layers](src/instability_wave)
 - Compressible Euler equations with non-equilibrium chemistry
 - A flapping airfoil
