@@ -4,7 +4,7 @@ The data and code for the paper [L. Lu, X. Meng, S. Cai, Z. Mao, S. Goswami, Z. 
 
 ## Datasets
 
-- Burgers' equation
+- [Burgers' equation](data/burgers)
 - Darcy problem in a rectangular domain
     - Case: Piecewise constant
     - Case: Continuous
@@ -26,7 +26,7 @@ The data and code for the paper [L. Lu, X. Meng, S. Cai, Z. Mao, S. Goswami, Z. 
 
 ## Code
 
-- Burgers' equation
+- [Burgers' equation](src/burgers)
 - Darcy problem in a rectangular domain
     - Case: Piecewise constant
     - Case: Continuous
