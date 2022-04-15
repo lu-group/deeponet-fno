@@ -1,0 +1,8 @@
+deepxde
+matplotlib
+numpy
+scipy
+sklearn
+tensorflow
+tensorflow_addons
+torch
